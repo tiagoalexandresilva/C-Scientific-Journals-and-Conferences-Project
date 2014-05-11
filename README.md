@@ -7,7 +7,7 @@ Files for testing are included.
 
 **Information about this project**<br>The program starts by reading lista.txt and will only analyze the files in that same file. Files starting with "c" are for conferences and "j" are for journals. The D.txt generate at the end contains some general statistics, such as, total number of entries, total number of rejected entries, total number of accepted entries (with number of conferences and journals). The E.txt will list the number of rejected entries by file. The G.csv file is the excel file for G.txt (the two will have the same information) and will have something like:<br><br>
 
-"ano","#autores","#artigos"<br>
+"year","#authors","#journals"<br>
 "2002","1","2"<br>
 "2002","2","6"<br>
 "2002","3","4"
@@ -62,7 +62,7 @@ Files for testing are included.
 "2012","5","1"<br>
 "2012","6","2"<br>
 "2012","7","1"<br>
-"#autores","#artigos"<br>
+"#authors","#journals"<br>
 "1","12"<br>
 "2","79"<br>
 "3","66"<br>
@@ -71,13 +71,15 @@ Files for testing are included.
 "6","9"<br>
 "7","1"<br>
 "10","1"<br>
-"intervalo","#artigos"<br>
+"interval","#journals"<br>
 "1993-1999","0"<br>
 "2001-2005","69"<br>
 "2009-2010","43"<br>
-"ano","#autores","percentagem"<br>
+"year","#authors","percentage"<br>
 "2002","1","11.76"<br>
 "2002","2","35.29"<br>
 "2002","3","23.53"<br>
 "2002","4","29.41"<br>
 
+The datas3.txt is where it appears the intervals of time that are needed on the D file.<br>
+The datas4.txt is where it appears the years that are needed for the percentage on the D file.<br>

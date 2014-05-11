@@ -5,8 +5,7 @@ Project made by: Tiago Silva
 
 Files for testing are included.
 
-Information about this project:\n
-The program starts by reading lista.txt and will only analyze the files in that same file. Files starting with "c" are for conferences and "j" are for journals. The D.txt generate at the end contains some general statistics, such as, total number of entries, total number of rejected entries, total number of accepted entries (with number of conferences and journals). The E.txt will list the number of rejected entries by file. The G.csv file is the excel file for G.txt (the two will have the same information) and will have something like:
+Information about this project:<br>The program starts by reading lista.txt and will only analyze the files in that same file. Files starting with "c" are for conferences and "j" are for journals. The D.txt generate at the end contains some general statistics, such as, total number of entries, total number of rejected entries, total number of accepted entries (with number of conferences and journals). The E.txt will list the number of rejected entries by file. The G.csv file is the excel file for G.txt (the two will have the same information) and will have something like:
 
 "ano","#autores","#artigos"
 "2002","1","2"

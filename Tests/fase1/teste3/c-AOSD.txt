@@ -1,0 +1,235 @@
+235 Robert Hirschfeld, Éric Tanter, Kevin J. Sullivan, Richard P. Gabriel: Proceedings of the 11th International Conference on Aspect-oriented Software Development, AOSD 2012, Potsdam, Germany, March 25-30, 2012 AOSD 2012
+234 Mathieu Acher, Philippe Collet, Philippe Lahire, Robert B. France: Separation of concerns in feature modeling: support and applications. AOSD 2012:1-12
+233 Claus Brabrand, Márcio Ribeiro, Társis Tolêdo, Paulo Borba: Intraprocedural dataflow analysis for software product lines. AOSD 2012:13-24
+232 Salman Saghafi, Kathi Fisler, Shriram Krishnamurthi: Features and object capabilities: reconciling two visions of modularity. AOSD 2012:25-34
+231 Shahar Maoz, Yaniv Sa'ar: Two-way traceability and conflict debugging for AspectLTL programs. AOSD 2012:35-46
+230 Yoav Apter, David H. Lorenz, Oren Mishali: A debug interface for debugging multiple domain specific aspect languages. AOSD 2012:47-58
+229 Haihan Yin, Christoph Bockisch, Mehmet Aksit: A fine-grained debugger for aspect-oriented programming. AOSD 2012:59-70
+228 Nicolas Tabareau: A monadic interpretation of execution levels and exceptions for AOP. AOSD 2012:71-82
+227 Eyvind W. Axelsen, Stein Krogdahl: Adaptable generic programming with required type specifications and package templates. AOSD 2012:83-94
+226 Shigeru Chiba, Michihiro Horie, Kei Kanazawa, Fuminobu Takeyama, Yuuki Teramoto: Do we really need to extend syntax for advanced modularity?. AOSD 2012:95-106
+225 Cynthia Disenfeld, Shmuel Katz: A closer look at aspect interference and cooperation. AOSD 2012:107-118
+224 Thomas Cottenier, Aswin van den Berg, Thomas Weigert: Management of feature interactions with transactional regions. AOSD 2012:119-130
+223 Shumpei Akai, Shigeru Chiba: Method shelters: avoiding conflicts among class extensions caused by local rebinding. AOSD 2012:131-142
+222 Robert Dyer, Hridesh Rajan, Yuanfang Cai: An exploratory study of the design impact of language features for aspect-oriented interfaces. AOSD 2012:143-154
+221 Shaukat Ali, Tao Yue, Zafar I. Malik: Comprehensively evaluating conformance error rates of applying aspect state machines. AOSD 2012:155-166
+220 Isela Macia Bertran, Joshua Garcia, Daniel Popescu, Alessandro Garcia, Nenad Medvidovic, Arndt von Staa: Are automatically-detected code anomalies relevant to architectural modularity?: an exploratory analysis of evolving systems. AOSD 2012:167-178
+219 João M. P. Cardoso, Tiago Carvalho, José Gabriel F. Coutinho, Wayne Luk, Ricardo Nobre, Pedro C. Diniz, Zlatko Petrov: LARA: an aspect-oriented programming language for embedded systems. AOSD 2012:179-190
+218 Guido Salvaneschi, Carlo Ghezzi, Matteo Pradella: ContextErlang: introducing context-oriented programming in the actor model. AOSD 2012:191-202
+217 Christian Wimmer, Stefan Brunthaler, Per Larsen, Michael Franz: Fine-grained modularity and reuse of virtual machine components. AOSD 2012:203-214
+216 Marko van Dooren, Eric Steegmans, Wouter Joosen: An object-oriented framework for aspect-oriented languages. AOSD 2012:215-226
+215 Myoungkyu Song, Eli Tilevich: Reusing non-functional concerns across languages. AOSD 2012:227-238
+214 Lukás Marek, Alex Villazón, Yudi Zheng, Danilo Ansaloni, Walter Binder, Zhengwei Qi: DiSL: a domain-specific language for bytecode instrumentation. AOSD 2012:239-250
+213 Steven Op de beeck, Marko van Dooren, Bert Lagaisse, Wouter Joosen: Multi-view refinement of AO-connectors in distributed software systems. AOSD 2012:251-262
+212 Gefei Zhang, Matthias M. Hölzl: Weaving semantic aspects in HiLA. AOSD 2012:263-274
+211 Paulo Borba, Shigeru Chiba: Proceedings of the 10th International Conference on Aspect-Oriented Software Development, AOSD 2011, Porto de Galinhas, Brazil, March 21-25, 2011 AOSD 2011
+210 Mary Shaw: Modularity for the modern world: summary of invited keynote. AOSD 2011:1-6
+209 Andrew Casey, Laurie J. Hendren: MetaLexer: a modular lexical specification language. AOSD 2011:7-18
+208 Shahar Maoz, Yaniv Sa'ar: AspectLTL: an aspect language for LTL specifications. AOSD 2011:19-30
+207 Sébastien Mosser, Gunter Mussbacher, Mireille Blay-Fornarino, Daniel Amyot: From aspect-oriented requirements models to aspect-oriented business process design models: an iterative and concern-driven approach for software engineering. AOSD 2011:31-42
+206 Ina Schaefer, Lorenzo Bettini, Ferruccio Damiani: Compositional type-checking for delta-oriented programming. AOSD 2011:43-56
+205 Chang Hwan Peter Kim, Don S. Batory, Sarfraz Khurshid: Reducing combinatorics in testing product lines. AOSD 2011:57-68
+204 Daniel Lohmann, Wanja Hofer, Wolfgang Schröder-Preikschat, Olaf Spinczyk: Aspect-aware operating system development. AOSD 2011:69-80
+203 Eduardo Figueiredo, Alessandro Garcia, Marcelo de Almeida Maia, Gabriel Coutinho Sousa Ferreira, Camila Nunes, Jon Whittle: On the impact of crosscutting concern projection on code measurement. AOSD 2011:81-92
+202 Steffen Zschaler, Awais Rashid: Aspect assumptions: a retrospective study of AspectJ developers' assumptions about aspect usage. AOSD 2011:93-104
+201 Susanne Cech Previtali, Thomas R. Gross: Aspect-based dynamic software updating: a model and its empirical evaluation. AOSD 2011:105-116
+200 Eric Bodden: Closure joinpoints: block joinpoints without surprises. AOSD 2011:117-128
+199 Philippe Moret, Walter Binder, Éric Tanter: Polymorphic bytecode instrumentation. AOSD 2011:129-140
+198 Mehdi Bagherzadeh, Hridesh Rajan, Gary T. Leavens, Sean L. Mooney: Translucid contracts: expressive specification and modular verification for aspect-oriented interfaces. AOSD 2011:141-152
+197 Andres J. Ramirez, Adam C. Jensen, Betty H. C. Cheng: An aspect-oriented approach for implementing evolutionary computation applications. AOSD 2011:153-164
+196 Pilsung Kang, Eli Tilevich, Srinidhi Varadarajan, Naren Ramakrishnan: Maintainable and reusable scientific software adaptation: democratizing scientific software adaptation. AOSD 2011:165-176
+195 Kiev Gama, Didier Donsez: Applying dependability aspects on top of aspectized software layers. AOSD 2011:177-190
+194 Jörg Liebig, Christian Kästner, Sven Apel: Analyzing the discipline of preprocessor annotations in 30 million lines of C code. AOSD 2011:191-202
+193 Isela Macia Bertran, Alessandro Garcia, Arndt von Staa: An exploratory study of code smells in evolving aspect-oriented systems. AOSD 2011:203-214
+192 Reishi Yokomori, Harvey P. Siy, Norihiro Yoshida, Masami Noro, Katsuro Inoue: Measuring the effects of aspect-oriented refactoring on component relationships: two case studies. AOSD 2011:215-226
+191 Vaidas Gasiunas, Lucas Satabin, Mira Mezini, Angel Núñez, Jacques Noyé: EScala: modular event-driven object interactions in scala. AOSD 2011:227-240
+190 Adrian Holzer, Lukasz Ziarek, K. R. Jayaram, Patrick Eugster: Putting events in context: aspects for event-based distributed programming. AOSD 2011:241-252
+189 Tetsuo Kamina, Tomoyuki Aotani, Hidehiko Masuhara: EventCJ: a context-oriented programming language with declarative event-based context transition. AOSD 2011:253-264
+188 André van der Hoek, Nicolás López: A design perspective on modularity. AOSD 2011:265-280
+187 James D. Herbsleb: Talking about concerns. AOSD 2011:281-282
+186 Gilad Bracha: Modules: dreams and reality. AOSD 2011:283-284
+185 Christoph Bockisch, Somayeh Malakuti, Mehmet Aksit, Shmuel Katz: Making aspects natural: events and composition. AOSD 2011:285-300
+184 William Harrison: Modularity for the changing meaning of changing. AOSD 2011:301-312
+183 Jean-Marc Jézéquel, Mario Südholt: Proceedings of the 9th International Conference on Aspect-Oriented Software Development, AOSD 2010, Rennes and Saint-Malo, France, March 15-19, 2010 AOSD 2010
+182 Danilo Ansaloni, Walter Binder, Alex Villazón, Philippe Moret: Parallel dynamic analysis on multicores with aspect-oriented programming. AOSD 2010:1-12
+181 Rodolfo Toledo, Paul Leger, Éric Tanter: AspectScript: expressive aspects for the web. AOSD 2010:13-24
+180 Eli Tilevich, Myoungkyu Song: Reusable enterprise metadata with pattern-based structural expressions. AOSD 2010:25-36
+179 Éric Tanter: Execution levels for aspect-oriented programming. AOSD 2010:37-48
+178 Tom Dinkelaker, Michael Eichberg, Mira Mezini: An architecture for composing embedded domain-specific languages. AOSD 2010:49-60
+177 Bryan Chadwick, Karl J. Lieberherr: Weaving generic programming and traversal performance. AOSD 2010:61-72
+176 Kleinner Farias, Alessandro Garcia, Jon Whittle: Assessing the impact of aspects on model composition effort. AOSD 2010:73-84
+175 Aram Hovsepyan, Riccardo Scandariato, Stefan Van Baelen, Yolande Berbers, Wouter Joosen: From aspect-oriented models to aspect-oriented code?: the maintenance perspective. AOSD 2010:85-96
+174 Michihiro Horie, Shigeru Chiba: Tool support for crosscutting concerns of API documentation. AOSD 2010:97-108
+173 Bruno C. d. S. Oliveira, Tom Schrijvers, William R. Cook: EffectiveAdvice: disciplined advice with explicit effects. AOSD 2010:109-120
+172 Hidehiko Masuhara, Atsushi Igarashi, Manabu Toyama: Type relaxed weaving. AOSD 2010:121-132
+171 Nicolas Tabareau: A theory of distributed aspects. AOSD 2010:133-144
+170 Wilke Havinga, Lodewijk Bergmans, Mehmet Aksit: A model for composable composition operators: expressing object and aspect compositions with first-class operators. AOSD 2010:145-156
+169 Antoine Marot, Roel Wuyts: Composing aspects with aspects. AOSD 2010:157-168
+168 Nicolas Palix, Julia L. Lawall, Gilles Muller: Tracking code patterns over multiple software versions with Herodotos. AOSD 2010:169-180
+167 Toheed Aslam, Jesse Doherty, Anton Dubrau, Laurie J. Hendren: AspectMatlab: an aspect-oriented scientific programming language. AOSD 2010:181-192
+166 Micah Jones, Kevin W. Hamlen: Disambiguating aspect-oriented security policies. AOSD 2010:193-204
+165 Wouter De Borger, Bart De Win, Bert Lagaisse, Wouter Joosen: A permission system for secure AOP. AOSD 2010:205-216
+164 Matthias Urban, Daniel Lohmann, Olaf Spinczyk: The aspect-oriented design of the PUMA C/C++ parser framework. AOSD 2010:217-221
+163 Hideaki Shinomi, Yasuhisa Ichimori: Program analysis environment for writing COBOL aspects. AOSD 2010:222-230
+162 Kevin J. Sullivan, Ana Moreira, Christa Schwanninger, Jeff Gray: Proceedings of the 8th International Conference on Aspect-Oriented Software Development, AOSD 2009, Charlottesville, Virginia, USA, March 2-6, 2009 AOSD 2009
+161 Paul R. Daugherty: The future of software architectures for large-scalebusiness solutions: modularity, scalability, andseparation of concerns. AOSD 2009:1-2
+160 Eric Bodden, Feng Chen, Grigore Rosu: Dependent advice: a general approach to optimizing history-based aspects. AOSD 2009:3-14
+159 Dima Alhadidi, Amine Boukhtouta, Nadia Belblidia, Mourad Debbabi, Prabir Bhattacharya: The dataflow pointcut: a formal and practical framework. AOSD 2009:15-26
+158 Éric Tanter, Johan Fabry, Rémi Douence, Jacques Noyé, Mario Südholt: Expressive scoping of distributed aspects. AOSD 2009:27-38
+157 Mehmet Aksit, Arend Rensink, Tom Staijen: A graph-transformation-based simulation approach for analysing aspect interference on shared join points. AOSD 2009:39-50
+156 Tom Dinkelaker, Mira Mezini, Christoph Bockisch: The art of the meta-aspect protocol. AOSD 2009:51-62
+155 Alex Villazón, Walter Binder, Philippe Moret: Flexible calling context reification for aspect-oriented programming. AOSD 2009:63-74
+154 Dimitri Van Landuyt, Steven Op de beeck, Eddy Truyen, Wouter Joosen: Domain-driven discovery of stable abstractions for pointcut interfaces. AOSD 2009:75-86
+153 Jörg Kienzle, Wisam Al Abed, Jacques Klein: Aspect-oriented multi-view modeling. AOSD 2009:87-98
+152 Jon Oldevik, Øystein Haugen: From sequence diagrams to Java-stairs aspects. AOSD 2009:99-110
+151 Christina Chavez, Alessandro F. Garcia, Thaís Vasconcelos Batista, Marcel Vinicius Medeiros Oliveira, Cláudio Sant'Anna, Awais Rashid: Composing architectural aspects based on style semantics. AOSD 2009:111-122
+150 John A. Stankovic: Cyber physical systems: aspects as a basis for robustness and openness. AOSD 2009:123-124
+149 Rodrigo Bonifácio, Paulo Borba: Modeling scenario variability as crosscutting mechanisms. AOSD 2009:125-136
+148 Nan Niu, Steve M. Easterbrook: Concept analysis for product line requirements. AOSD 2009:137-148
+147 Ruzanna Chitchyan, Phil Greenwood, Américo Sampaio, Awais Rashid, Alessandro F. Garcia, Lyrene Fernandes da Silva: Semantic vs syntactic compositions in aspect-oriented requirements engineering: an empirical study. AOSD 2009:149-160
+146 Ji Zhang, Heather Goldsby, Betty H. C. Cheng: Modular verification of dynamically adaptive systems. AOSD 2009:161-172
+145 Wouter De Borger, Bert Lagaisse, Wouter Joosen: A generic and reflective debugging architecture to support runtime visibility and traceability of aspects. AOSD 2009:173-184
+144 Mark Harman, Fayezin Islam, Tao Xie, Stefan Wappler: Automated test data generation for aspect-oriented programs. AOSD 2009:185-196
+143 Nikhil Kumar, Dinakar Sosale, Sadhana Nivedita Konuganti, Ajay Rathi: Enabling the adoption of aspects - testing aspects: a risk model, fault model and patterns. AOSD 2009:197-206
+142 Darren Galpin, Cormac Driver, Siobhán Clarke: Modelling hardware verification concerns specified in the e language: an experience report. AOSD 2009:207-212
+141 Uwe Hohenstein, Michael C. Jäger: Using aspect-orientation in industrial projects: appreciated or damned?. AOSD 2009:213-222
+140 German Florez-Larrahondo, Walker Haddock: Aspect oriented programming with hidden markov models to verify design use cases. AOSD 2009:223-228
+139 Gail C. Murphy: Everyday aspects. AOSD 2009:229-230
+138 Clayton G. Myers, Elisa L. A. Baniassad: Metaproperty aspects. AOSD 2009:231-242
+137 Bram Adams, Wolfgang De Meuter, Herman Tromp, Ahmed E. Hassan: Can we refactor conditional compilation into aspects?. AOSD 2009:243-254
+136 Brett Cannon, Eric Wohlstadter: Enforcing security for desktop clients using authority aspects. AOSD 2009:255-266
+135 Theo D'Hondt: Proceedings of the 7th International Conference on Aspect-Oriented Software Development, AOSD 2008, Brussels, Belgium, March 31 - April 4, 2008 AOSD 2008
+134 Sebastian Benz: AspectT: aspect-oriented test case instantiation. AOSD 2008:1-12
+133 Eli Tilevich, Godmar Back: Program, enhance thyself!: demand-driven pattern-oriented program enhancement. AOSD 2008:13-24
+132 Pavel Avgustinov, Torbjörn Ekman, Julian Tibble: Modularity first: a case for mixing AOP and attribute grammars. AOSD 2008:25-35
+131 Guoqing (Harry) Xu, Atanas Rountev: AJANA: a general framework for source-code-level interprocedural dataflow analysis of AspectJ software. AOSD 2008:36-47
+130 Klaus Ostermann: Reasoning about aspects with common sense. AOSD 2008:48-59
+129 Bruno De Fraine, Mario Südholt, Viviane Jonckers: StrongAspectJ: flexible and safe pointcut/advice bindings. AOSD 2008:60-71
+128 Nélio Cacho, Fernando Castor Filho, Alessandro Garcia, Eduardo Figueiredo: EJFlow: taming exceptional control flows in aspect-oriented programming. AOSD 2008:72-83
+127 Eric Bodden, Reehan Shaikh, Laurie J. Hendren: Relational aspects as tracematches. AOSD 2008:84-95
+126 Kouhei Sakurai, Hidehiko Masuhara: Test-based pointcuts for robust and fine-grained join point specification. AOSD 2008:96-107
+125 Venkat Chakravarthy, John Regehr, Eric Eide: Edicts: implementing features with flexible binding times. AOSD 2008:108-119
+124 Eddy Truyen, Nico Janssens, Frans Sanen, Wouter Joosen: Support for distributed adaptations in aspect-oriented middleware. AOSD 2008:120-131
+123 Jan Wloka, Robert Hirschfeld, Joachim Hänsel: Tool-supported refactoring of aspect-oriented programs. AOSD 2008:132-143
+122 Lingdong Ye, Kris De Volder: Tool support for understanding and diagnosing pointcut expressions. AOSD 2008:144-155
+121 Peng Li, Eric Wohlstadter: View-based maintenance of graphical user interfaces. AOSD 2008:156-167
+120 Éric Tanter: Expressive scoping of dynamically-deployed aspects. AOSD 2008:168-179
+119 Ryan M. Golbeck, Samuel Davis, Immad Naseer, Igor Ostrovsky, Gregor Kiczales: Lightweight virtual machine support for AspectJ. AOSD 2008:180-190
+118 Robert Dyer, Hridesh Rajan: Nu: a dynamic aspect-oriented intermediate language model and virtual machine for flexible runtime adaptation. AOSD 2008:191-202
+117 Brian M. Barry, Oege de Moor: Proceedings of the 6th International Conference on Aspect-Oriented Software Development, AOSD 2007, Vancouver, British Columbia, Canada, March 12-16, 2007 AOSD 2007
+116 Kenichi Kourai, Hideaki Hibino, Shigeru Chiba: Aspect-oriented application-level scheduling for J2EE servers. AOSD 2007:1-13
+115 André L. Santos, Antónia Lopes, Kai Koskimies: Framework specialization aspects. AOSD 2007:14-24
+114 Ömer Erdem Demir, Premkumar T. Devanbu, Eric Wohlstadter, Stefan Tai: An aspect-oriented approach to bypassing middleware layers. AOSD 2007:25-35
+113 Ruzanna Chitchyan, Awais Rashid, Paul Rayson, Robert Waters: Semantics-based composition for aspect-oriented requirements engineering. AOSD 2007:36-48
+112 Stefan Hanenberg, Dominik Stein, Rainer Unland: From aspect-oriented design to aspect-oriented programs: tool-supported translation of JPDDs into code. AOSD 2007:49-62
+111 Clint Morgan, Kris De Volder, Eric Wohlstadter: A static aspect language for checking design rules. AOSD 2007:63-72
+110 Andrew David Eisenberg, Gregor Kiczales: Expressive programs through presentation extension. AOSD 2007:73-84
+109 Wilke Havinga, István Nagy, Lodewijk Bergmans, Mehmet Aksit: A graph-based approach to modeling and detecting composition conflicts related to introductions. AOSD 2007:85-95
+108 Rick Chern, Kris De Volder: Debugging with control-flow breakpoints. AOSD 2007:96-106
+107 Radha Jagadeesan, Corin Pitcher, James Riely: Open bisimulation for aspects. AOSD 2007:107-120
+106 Dave Clarke, Sophia Drossopoulou, James Noble, Tobias Wrigstad: Tribe: a simple virtual class calculus. AOSD 2007:121-134
+105 S. B. Sanjabi, C.-H. Luke Ong: Fully abstract semantics of additive aspects by translation. AOSD 2007:135-148
+104 Matan Vax: Conservative aspect-orientated programming with the e language. AOSD 2007:149-160
+103 Tomoyuki Aotani, Hidehiko Masuhara: SCoPE: an AspectJ compiler for supporting user-defined analysis-based pointcuts. AOSD 2007:161-172
+102 Ramakrishna Gummadi, Nupur Kothari, Todd D. Millstein, Ramesh Govindan: Declarative failure recovery for sensor networks. AOSD 2007:173-184
+101 Shan Shan Huang, David Zook, Yannis Smaragdakis: cJ: enhancing java with safe type conditions. AOSD 2007:185-198
+100 Magiel Bruntink, Arie van Deursen, Maja D'Hondt, Tom Tourwé: Simple crosscutting concerns are not so simple: analysing variability in large-scale idioms-based implementations. AOSD 2007:199-211
+99 David Shepherd, Zachary P. Fry, Emily Hill, Lori L. Pollock, K. Vijay-Shanker: Using natural language program analysis to locate and understand action-oriented concerns. AOSD 2007:212-224
+98 Charles Zhang, Hans-Arno Jacobsen: Efficiently mining crosscutting concerns through random walks. AOSD 2007:226-238
+97 Robert E. Filman: Proceedings of the 5th International Conference on Aspect-Oriented Software Development, AOSD 2006, Bonn, Germany, March 20-24, 2006 AOSD 2006
+96 Carliss Baldwin: The power of modularity: the financial consequences of computer and code architecture. AOSD 2006:1
+95 Richard P. Gabriel: Design beyond human abilities. AOSD 2006:2
+94 David Shepherd, Lori L. Pollock, K. Vijay-Shanker: Towards supporting on-demand virtual remodularization using program graphs. AOSD 2006:3-14
+93 Dominik Stein, Stefan Hanenberg, Rainer Unland: Expressing different conceptual models of join point selections in aspect-oriented design. AOSD 2006:15-26
+92 Jacques Klein, Loïc Hélouët, Jean-Marc Jézéquel: Semantic-based weaving of scenarios. AOSD 2006:27-38
+91 Neil Ongkingco, Pavel Avgustinov, Julian Tibble, Laurie J. Hendren, Oege de Moor, Ganesh Sittampalam: Adding open modules to AspectJ. AOSD 2006:39-50
+90 Luis Daniel Benavides Navarro, Mario Südholt, Wim Vanderperren, Bruno De Fraine, Davy Suvée: Explicitly distributed AOP using AWED. AOSD 2006:51-62
+89 Bruno Harbulot, John R. Gurd: A join point for loops in AspectJ. AOSD 2006:63-74
+88 David J. Pearce, James Noble: Relationship aspects. AOSD 2006:75-86
+87 Matti A. Hiltunen, François Taïani, Richard D. Schlichting: Reflections on aspects and configurable protocols. AOSD 2006:87-98
+86 Eric Wohlstadter, Kris De Volder: Doxpects: aspects supporting XML transformation interfaces. AOSD 2006:99-108
+85 Nélio Cacho, Cláudio Sant'Anna, Eduardo Figueiredo, Alessandro F. Garcia, Thaís Vasconcelos Batista, Carlos José Pereira de Lucena: Composing design patterns: a scalability study of aspect-oriented programming. AOSD 2006:109-121
+84 Jamal Siadat, Robert J. Walker, Cameron Kiddle: Optimization aspects in network simulation. AOSD 2006:122-133
+83 Carlos A. Cunha, João Luís Sobral, Miguel P. Monteiro: Reusable aspect-oriented implementations of concurrency patterns and mechanisms. AOSD 2006:134-145
+82 J.-Hendrik Pfeiffer, John R. Gurd: Visualisation-based tool support for the development of aspect-oriented programs. AOSD 2006:146-157
+81 Wesley Coelho, Gail C. Murphy: Presenting crosscutting structure with active models. AOSD 2006:158-168
+80 Oren Mishali, Shmuel Katz: Using aspects to support the software process: XP over Eclipse. AOSD 2006:169-179
+79 Dianxiang Xu, Weifeng Xu: State-based incremental testing of aspect-oriented programs. AOSD 2006:180-189
+78 Tao Xie, Jianjun Zhao: A framework and tool supports for generating test inputs of AspectJ programs. AOSD 2006:190-201
+77 Jörg Kienzle, Samuel Gélineau: AO challenge - implementing the ACID properties for transactional objects. AOSD 2006:202-213
+76 Wilke Havinga, István Nagy, Lodewijk Bergmans, Mehmet Aksit: Detecting and resolving ambiguities caused by inter-dependent introductions. AOSD 2006:214-225
+75 Patrick Hill, Simon Holland, Robin C. Laney: Symmetric composition of musical concerns. AOSD 2006:226-236
+74 Mira Mezini, Peri L. Tarr: Proceedings of the 4th International Conference on Aspect-Oriented Software Development, AOSD 2005, Chicago, Illinois, USA, March 14-18, 2005 AOSD 2005
+73 Alessandro F. Garcia, Cláudio Sant'Anna, Eduardo Figueiredo, Uirá Kulesza, Carlos José Pereira de Lucena, Arndt von Staa: Modularizing design patterns with aspects: a quantitative study. AOSD 2005:3-14
+72 Cristina Videira Lopes, Sushil Krishna Bajracharya: An analysis of modularity in aspect oriented design. AOSD 2005:15-26
+71 Rémi Douence, Thomas Fritz, Nicolas Loriant, Jean-Marc Menaud, Marc Ségura-Devillechaise, Mario Südholt: An expressive aspect language for system applications with Arachne. AOSD 2005:27-38
+70 Aleksandra Tesanovic, Mehdi Amirijoo, Kaj-Mikael Björk, Jörgen Hansson: Empowering configurable QoS management in real-time systems. AOSD 2005:39-50
+69 Michael Engel, Bernd Freisleben: Supporting autonomic computing functionality via dynamic operating system kernel aspects. AOSD 2005:51-62
+68 Charles Zhang, Dapeng Gao, Hans-Arno Jacobsen: Towards just-in-time middleware architectures. AOSD 2005:63-74
+67 Wim Vanderperren, Davy Suvée, Bart Verheecke, María Agustina Cibrán, Viviane Jonckers: Adaptive programming in JAsCo. AOSD 2005:75-86
+66 Pavel Avgustinov, Aske Simon Christensen, Laurie J. Hendren, Sascha Kuzins, Jennifer Lhoták, Ondrej Lhoták, Oege de Moor, Damien Sereni, Ganesh Sittampalam, Julian Tibble: abc: an extensible AspectJ compiler. AOSD 2005:87-98
+65 Ralf Lämmel, Kris De Schutter: What does aspect-oriented programming mean to Cobol?. AOSD 2005:99-110
+64 Miguel P. Monteiro, João M. Fernandes: Towards a catalog of aspect-oriented refactorings. AOSD 2005:111-122
+63 Leonardo Cole, Paulo Borba: Deriving refactorings for AspectJ. AOSD 2005:123-134
+62 Jan Hannemann, Gail C. Murphy, Gregor Kiczales: Role-based refactoring of crosscutting concerns. AOSD 2005:135-146
+61 Li-Te Cheng, John F. Patterson, Steven L. Rohall, Susanne Hupfer, Steven I. Ross: Weaving a social fabric into existing software. AOSD 2005:147-158
+60 Mik Kersten, Gail C. Murphy: Mylar: a degree-of-interest model for IDEs. AOSD 2005:159-168
+59 Patrick Lam, Viktor Kuncak, Martin C. Rinard: Crosscutting techniques in program specification and analysis. AOSD 2005:169-180
+58 Hridesh Rajan, Kevin J. Sullivan: Aspect language features for concern coverage profiling. AOSD 2005:181-191
+57 Nathan McEachen, Roger T. Alexander: Distributing classes with woven concerns: an exploration of potential fault scenarios. AOSD 2005:192-200
+56 Gail C. Murphy, Karl J. Lieberherr: Proceedings of the 3rd International Conference on Aspect-Oriented Software Development, AOSD 2004, Lancaster, UK, March 22-24, 2004 AOSD 2004
+55 Daniel Sabbah: Aspects: from promise to reality. AOSD 2004:1-2
+54 Bashar Nuseibeh: Crosscutting requirements. AOSD 2004:3-4
+53 Jonas Bonér: What are the key issues for commercial AOP use: how does AspectWerkz address them?. AOSD 2004:5-6
+52 Muga Nishizawa, Shigeru Chiba, Michiaki Tatsubori: Remote pointcut: a language construct for distributed AOP. AOSD 2004:7-15
+51 Kouhei Sakurai, Hidehiko Masuhara, Naoyasu Ubayashi, Saeko Matsuura, Seiichi Komiya: Association aspects. AOSD 2004:16-25
+50 Erik Hilsdale, Jim Hugunin: Advice weaving in AspectJ. AOSD 2004:26-35
+49 Jeffrey G. Gray, Suman Roychoudhury: A technique for constructing aspect weavers using a program transformation engine. AOSD 2004:36-45
+48 Stefan Hanenberg, Robert Hirschfeld, Rainer Unland: Morphing aspects: incompletely woven aspects and continuous weaving. AOSD 2004:46-55
+47 Adrian M. Colyer, Andrew Clement: Large-scale AOSD for middleware. AOSD 2004:56-65
+46 Gary Duzan, Joseph P. Loyall, Richard E. Schantz, Richard Shapiro, John A. Zinky: Building adaptive distributed applications with middleware and aspects. AOSD 2004:66-73
+45 Steffen Göbel, Christoph Pohl, Simone Röttger, Steffen Zschaler: The COMQUAD component model: enabling dynamic selection of implementations by weaving non-functional aspects. AOSD 2004:74-82
+44 Christoph Bockisch, Michael Haupt, Mira Mezini, Klaus Ostermann: Virtual machine support for dynamic join points. AOSD 2004:83-92
+43 Ran Ettinger, Mathieu Verbaere: Untangling: a slice extraction refactoring. AOSD 2004:93-101
+42 Shigeru Chiba, Kiyoshi Nakagawa: Josh: an open AspectJ-like language. AOSD 2004:102-111
+41 Charles B. Haley, Robin C. Laney, Bashar Nuseibeh: Deriving security requirements from crosscutting threat descriptions. AOSD 2004:112-121
+40 Bruno Harbulot, John R. Gurd: Using AspectJ to separate concerns in parallel scientific Java code. AOSD 2004:122-131
+39 Maja D'Hondt, Viviane Jonckers: Hybrid aspects for weaving object-oriented functionality and rule-based knowledge. AOSD 2004:132-140
+38 Rémi Douence, Pascal Fradet, Mario Südholt: Composition, reuse and interaction analysis of stateful aspects. AOSD 2004:141-150
+37 Mika Katara, Shmuel Katz: Architectural views of aspects. AOSD 2003:1-10
+36 Awais Rashid, Ana M. D. Moreira, João Araújo: Modularisation and composition of aspectual requirements. AOSD 2003:11-20
+35 Davy Suvée, Wim Vanderperren, Viviane Jonckers: JAsCo: an aspect-oriented approach tailored for component based software development. AOSD 2003:21-29
+34 Damien Sereni, Oege de Moor: Static analysis of aspects. AOSD 2003:30-39
+33 Karl J. Lieberherr, David H. Lorenz, Pengcheng Wu: A case for statically executable advice: checking the law of demeter with AspectJ. AOSD 2003:40-49
+32 Yvonne Coady, Gregor Kiczales: Back to the future: a retroactive study of aspect evolution in operating system code. AOSD 2003:50-59
+31 Kris Gybels, Johan Brichau: Arranging language features for more robust pattern-based crosscuts. AOSD 2003:60-69
+30 Sean McDirmid, Wilson C. Hsieh: Aspect-oriented programming with Jiazzi. AOSD 2003:70-79
+29 Stefan Hanenberg, Rainer Unland: Parametric introductions. AOSD 2003:80-89
+28 Mira Mezini, Klaus Ostermann: Conquering aspects with Caesar. AOSD 2003:90-99
+27 Andrei Popovici, Gustavo Alonso, Thomas R. Gross: Just-in-time aspects: efficient dynamic weaving for Java. AOSD 2003:100-109
+26 Marc Ségura-Devillechaise, Jean-Marc Menaud, Gilles Muller, Julia L. Lawall: Web cache prefetching as an aspect: towards a dynamic-weaving based solution. AOSD 2003:110-119
+25 Awais Rashid, Ruzanna Chitchyan: Persistence as an aspect. AOSD 2003:120-129
+24 Charles Zhang, Hans-Arno Jacobsen: Quantifying aspects in middleware platforms. AOSD 2003:130-139
+23 Matthias Veit, Stephan Herrmann: Model-view-controller and object teams: a perfect match of paradigms. AOSD 2003:140-149
+22 Erik Ernst, David H. Lorenz: Aspects and polymorphism in AspectJ. AOSD 2003:150-157
+21 David B. Tucker, Shriram Krishnamurthi: Pointcuts and advice in higher-order languages. AOSD 2003:158-167
+20 Ralf Lämmel, Eelco Visser, Joost Visser: Strategic programming meets adaptive programming. AOSD 2003:168-177
+19 Doug Janzen, Kris De Volder: Navigating and querying code without getting lost. AOSD 2003:178-187
+18 Mark Chu-Carroll, James L. Wright, Annie T. T. Ying: Visual separation of concerns through multidimensional program storage. AOSD 2003:188-197
+17 Mati Shomrat, Amiram Yehudai: Obvious or not?: regulating architectural decisions using aspect-oriented programming. AOSD 2002:3-9
+16 Avi Bryant, Andrew Catton, Kris De Volder, Gail C. Murphy: Explicit programming. AOSD 2002:10-18
+15 Kevin J. Sullivan, Lin Gu, Yuanfang Cai: Non-modularity in aspect-oriented languages: integration as a crosscutting concern for AspectJ. AOSD 2002:19-26
+14 Marcelo Sihman, Shmuel Katz: A calculus of superimpositions for distributed systems. AOSD 2002:28-40
+13 Ralf Lämmel: A semantical approach to method-call interception. AOSD 2002:41-55
+12 Doug Orleans: Incremental programming with extensible decisions. AOSD 2002:56-64
+11 Frédéric Duclos, Jacky Estublier, Philippe Morat: Describing and using non functional aspects in component based applications. AOSD 2002:65-75
+10 Richard Cardone, Adam Brown, Sean McDirmid, Calvin Lin: Using mixins to build flexible widgets. AOSD 2002:76-85
+9 Jason Baker, Wilson C. Hsieh: Runtime aspect weaving through metaprogramming. AOSD 2002:86-95
+8 Wai-Ming Ho, Jean-Marc Jézéquel, François Pennaneac'h, Noël Plouzeau: A toolkit for weaving aspect oriented UML designs. AOSD 2002:99-105
+7 Dominik Stein, Stefan Hanenberg, Rainer Unland: A UML-based aspect-oriented design notation for AspectJ. AOSD 2002:106-112
+6 Siobhán Clarke, Robert J. Walker: Towards a standard design language for AOSD. AOSD 2002:113-119
+5 Elisa L. A. Baniassad, Gail C. Murphy, Christa Schwanninger, Michael Kircher: Managing crosscutting concerns during software evolution tasks: an inquisitive study. AOSD 2002:120-126
+4 Stanley M. Sutton Jr., Isabelle Rouvellou: Modeling of software concerns in Cosmos. AOSD 2002:127-133
+3 Mónica Pinto, Lidia Fuentes, Mohamed Fayad, José M. Troya: Separation of coordination in a dynamic aspect oriented framework. AOSD 2002:134-140
+2 Andrei Popovici, Thomas R. Gross, Gustavo Alonso: Dynamic weaving for aspect-oriented programming. AOSD 2002:141-147
+1 Naoyasu Ubayashi, Tetsuo Tamai: Aspect-oriented programming with model checking. AOSD 2002:148-154

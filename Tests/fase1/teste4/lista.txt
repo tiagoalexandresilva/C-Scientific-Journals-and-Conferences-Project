@@ -1,0 +1,13 @@
+5
+j-ACM-TECS.txt
+j-ACM-TOPLAS.txt
+j-Elsv-CMIG.txt
+j-Elsv-CN.txt
+j-Elsv-DSS.txt
+j-Spring-CSCW.txt
+j-Spring-CTW.txt
+j-Spring-DATAMINE.txt
+j-Spring-DC.txt
+j-Spring-DCC.txt
+j-Spring-STTT.txt
+j-Wiley-SPE.txt

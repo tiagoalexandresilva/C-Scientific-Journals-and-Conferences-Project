@@ -1,4 +1,4 @@
-C-Scientific-Articles-and-Conferences-Project
+C-Scientific-Journals-and-Conferences-Project
 =============================================
 
 Project made by: Tiago Silva
